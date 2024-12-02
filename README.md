@@ -2,6 +2,7 @@
 ---
 ## 📖Overview
 Customer retention is critical for businesses aiming to maximize revenue and build long-term relationships with their clientele. This project focuses on predicting customer churn using a machine learning approach, enabling businesses to proactively identify at-risk customers and take corrective actions.
+
 ---
 ## 🎯 Objective
 
