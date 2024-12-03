@@ -34,12 +34,12 @@ In this project, a robust data cleaning process was implemented to ensure the da
 
 ### Data Cleaning Steps
 
-**1  Handling Missing Values:**
+**1.  Handling Missing Values:**
 *  Checked for missing values across all columns.
 *  Imputed missing values appropriately based on the nature of the feature (e.g., mean or median for numerical features).
 
-**2  Date Conversion:**
-*  converted the InvoiceDate column from a string format to a datetime object for accurate time-based analysis.
+**2.  Date Conversion:**
+*  converted the ```InvoiceDate``` column from a string format to a **datetime** object for accurate time-based analysis.
 
-**3  Duplicate Removal:**
+**3.  Duplicate Removal:**
 *  Identified and removed duplicate rows to maintain data integrity.
