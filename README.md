@@ -103,6 +103,14 @@ A time series visualization of UnitPrice was generated to observe price changes 
 
 ---
 
+## ⚙️ Model Building
+* Train and evaluate multiple machine learning models, including:
+  * Logistic Regression
+  * Support Vector Machines
+  * Random Forest
+  * Neural Network
+* Perform hyperparameter tuning using Grid Search/Random Search.
+* Split data into training and testing sets to evaluate model performance.
 
 
 
