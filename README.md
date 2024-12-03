@@ -77,5 +77,5 @@ Checked for missing or null values in the dataset.
 
 **2. Average Customers Per Country:**
 A bar chart was created to display the average number of customers across different countries.
- ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/tree/main)
+ ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/avarage%20purchage%20per%20country.png)
 
