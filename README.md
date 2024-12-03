@@ -79,3 +79,10 @@ Checked for missing or null values in the dataset.
 A bar chart was created to display the average number of customers across different countries.
  ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/avarage%20purchage%20per%20country.png)
 
+**3. Box Plot:**
+Visualized key metrics (e.g., ```UnitPrice```, ```Recency```, ```Amount```) using box plots to detect outliers and understand the distribution of values.
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/box%20plot.png)
+
+
+
+
