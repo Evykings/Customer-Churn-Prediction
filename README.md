@@ -83,6 +83,27 @@ A bar chart was created to display the average number of customers across differ
 Visualized key metrics (e.g., ```UnitPrice```, ```Recency```, ```Amount```) using box plots to detect outliers and understand the distribution of values.
 ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/box%20plot.png)
 
+**4. Distribution of Total Price:**
+A histogram was plotted to examine the distribution of total monetary value.
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/distribution%20of%20total%20price.png)
+
+**5. Heatmap:**
+Generated a correlation heatmap to visualize the relationships between features such as ```TotalPrice```, ```UnitPrice```, and ```Quantity```.
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/heat%20map.png)
+
+**6. Monthly Sales:**
+A line chart was created to track monthly sales trends over the observed period.
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/monthly%20sales.png)
+
+**7. Time Series Plot of Unit Price:**
+A time series visualization of UnitPrice was generated to observe price changes over time.
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/time%20series%20plot%20of%20unit%20price.png)
+
+
+---
+
+
+
 
 
 
