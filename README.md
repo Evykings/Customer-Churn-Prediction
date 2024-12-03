@@ -65,3 +65,13 @@ To enhance the dataset and create meaningful predictors for churn, several new f
 **4.  Label (Churn):**
 *  Created the target variable Churn using the Recency feature. Customers whose recency was greater than the 75th percentile were labeled as churned (1), while others were labeled as not churned (0).
 *  This threshold was selected to focus on customers with a long gap since their last purchase.
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+In this project, Exploratory Data Analysis (EDA) was conducted to uncover insights from the dataset and identify key factors influencing customer churn. Below are the steps and findings from the EDA:
+
+**1.  Missing Values Analysis:**
+Checked for missing or null values in the dataset.
+ ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/missing%20values.png)
+
