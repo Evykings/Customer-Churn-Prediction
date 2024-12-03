@@ -43,3 +43,25 @@ In this project, a robust data cleaning process was implemented to ensure the da
 
 **3.  Duplicate Removal:**
 *  Identified and removed duplicate rows to maintain data integrity.
+
+---
+
+### Feature Engineering
+
+To enhance the dataset and create meaningful predictors for churn, several new features were engineered:
+
+**1.  Recency:**
+*  Calculated as the difference between the maximum date of purchase and each customer's most recent purchase date.
+*  Provides insights into how recently a customer made a purchase.
+
+**2.  Frequency:**
+*  Counted the total number of purchases made by each customer using the CustomerID and InvoiceDate columns.
+*  Indicates customer engagement over time.
+
+**3.  Amount:**
+*  Computed as the product of Quantity and UnitPrice for each transaction, representing the monetary value of each purchase.
+*  Helps understand customer spending behavior.
+
+**4.  Label (Churn):**
+*  Created the target variable Churn using the Recency feature. Customers whose recency was greater than the 75th percentile were labeled as churned (1), while others were labeled as not churned (0).
+*  This threshold was selected to focus on customers with a long gap since their last purchase.
