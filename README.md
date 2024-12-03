@@ -24,3 +24,20 @@ The dataset used in this project contains customer data and behavioral patterns.
 | UnitPrice           | Price of a single unit of the product, recorded in the local currency.                           |
 | CustomerID          | Unique identifier for the customer who made the purchase. This helps track customer behavior.    |
 | Country             | The country where the customer is located. This indicates the geographic location of the sale.   |                                                          
+
+---
+
+## 🧹 Data Cleaning
+In this project, a robust data cleaning process was implemented to ensure the dataset was ready for analysis and modeling. Key transformations and feature engineering steps were carried out to create meaningful features that enhance the prediction of customer churn.
+
+---
+
+### Data Cleaning Steps
+
+**1  Handling Missing Values:**
+*  Checked for missing values across all columns.
+*  Imputed missing values appropriately based on the nature of the feature (e.g., mean or median for numerical features).
+**2  Date Conversion:**
+*  converted the InvoiceDate column from a string format to a datetime object for accurate time-based analysis.
+**3  Duplicate Removal:**
+*  Identified and removed duplicate rows to maintain data integrity.
