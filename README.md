@@ -75,3 +75,7 @@ In this project, Exploratory Data Analysis (EDA) was conducted to uncover insigh
 Checked for missing or null values in the dataset.
  ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/missing%20values.png)
 
+**2. Average Customers Per Country:**
+A bar chart was created to display the average number of customers across different countries.
+ ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/tree/main)
+
