@@ -153,3 +153,17 @@ F1 Score: 1.0
 
 #### Random Forest Tree Plot
 ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/random%20forest.png)
+
+### 🔬 Neural Network Performance : 
+Test Accuracy: 0.9736024737358093
+
+#### Neural Network Accuracy Plot
+![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/neural%20network%20plot.png)
+
+## 📈 Results
+
+Best-performing model: **Random Forest** with an Accuracy of 100% and a precision-recall balance that allow business focus on the right customers.
+
+
+
+
