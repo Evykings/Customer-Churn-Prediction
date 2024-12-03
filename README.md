@@ -117,8 +117,11 @@ A time series visualization of UnitPrice was generated to observe price changes 
 ### 🔬 Logistic Regression Model Performance : 
 
 Accuracy: 0.9970896391152503
+
 Precision: 0.9889380530973452
+
 Recall: 1.0
+
 F1 Score: 0.9944382647385984
 
 #### Confusion Matrix For Logistic Regression Performance
@@ -128,8 +131,11 @@ F1 Score: 0.9944382647385984
 ### 🔬 Support Vector Machine Model Performance : 
 
 Accuracy: 0.9728260869565217
+
 Precision: 0.9234972677595629
+
 Recall: 0.9797101449275363
+
 F1 Score: 0.950773558368495
 
 #### Confusion Matrix For Support Vector Machine Model Performance
@@ -138,8 +144,11 @@ F1 Score: 0.950773558368495
 ### 🔬 Random Forest Model Performance : 
 
 Accuracy: 1.0
+
 Precision: 1.0
+
 Recall: 1.0
+
 F1 Score: 1.0
 
 #### Random Forest Tree Plot
