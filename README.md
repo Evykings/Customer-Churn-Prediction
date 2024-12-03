@@ -89,6 +89,7 @@ A histogram was plotted to examine the distribution of total monetary value.
 
 **5. Heatmap:**
 Generated a correlation heatmap to visualize the relationships between features such as ```TotalPrice```, ```UnitPrice```, and ```Quantity```.
+
 ![alt text](https://github.com/Evykings/Customer-Churn-Prediction/blob/main/heat%20map.png)
 
 **6. Monthly Sales:**
